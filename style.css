@@ -1,0 +1,11 @@
+header .col-sm-12{
+    height: 40px;
+    padding-top: 10px;
+    font-size: 18px;
+    font-family: 'Arvo', serif;
+}
+
+article p{
+    font-size: 18px;
+    font-family: 'Arvo', serif;
+}
